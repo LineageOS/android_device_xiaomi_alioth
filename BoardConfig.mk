@@ -9,6 +9,8 @@ include device/xiaomi/sm8250-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/alioth
 
+BUILD_BROKEN_DUP_RULES := true
+
 # A/B
 BOARD_USES_RECOVERY_AS_BOOT := true
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
