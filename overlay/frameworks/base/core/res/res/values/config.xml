@@ -456,4 +456,7 @@
         black in software (to avoid aliasing or emulate a cutout that is not physically existent).
     -->
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+
+    <!-- If true, the display will be shifted around in ambient mode. -->
+    <bool name="config_enableBurnInProtection">true</bool>
 </resources>
