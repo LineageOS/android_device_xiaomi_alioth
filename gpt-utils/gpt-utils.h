@@ -72,7 +72,7 @@ extern "C" {
 #define AB_PARTITION_ATTR_SLOT_ACTIVE (0x1<<2)
 #define AB_PARTITION_ATTR_BOOT_SUCCESSFUL (0x1<<6)
 #define AB_PARTITION_ATTR_UNBOOTABLE (0x1<<7)
-#define AB_SLOT_ACTIVE_VAL              0x3F
+#define AB_SLOT_ACTIVE_VAL              0xF
 #define AB_SLOT_INACTIVE_VAL            0x0
 #define AB_SLOT_ACTIVE                  1
 #define AB_SLOT_INACTIVE                0
