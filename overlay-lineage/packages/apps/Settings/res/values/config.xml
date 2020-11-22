@@ -20,4 +20,7 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">3</integer>
+
+    <!-- Whether to show min refresh rate in display settings -->
+    <bool name="config_show_min_refresh_rate_switch">true</bool>
 </resources>
