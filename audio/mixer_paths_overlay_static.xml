@@ -859,7 +859,7 @@
     </path>
 
     <path name="ultrasound-suspend">
-        <ctl name="Mi_Ultrasound Suspend" value="1"/>>
+        <ctl name="Mi_Ultrasound Suspend" value="1"/>
     </path>
 
     <path name="ultrasound-stop-report">
