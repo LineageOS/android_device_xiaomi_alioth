@@ -39,6 +39,11 @@ PRODUCT_PACKAGES += \
     otapreopt_script
 
 # Overlays
+PRODUCT_PACKAGES += \
+    WifiOverlayK11AC \
+    WifiOverlayK11AG \
+    WifiOverlayK11AI
+
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
     $(LOCAL_PATH)/overlay-lineage

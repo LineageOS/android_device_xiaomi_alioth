@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2021 KudProject Development
+  ~ SPDX-License-Identifier: Apache-2.0
+ -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.wifi.resources.overlay.K11AG"
+    android:versionCode="30"
+    android:versionName="11">
+    <application
+        android:label="WifiOverlayK11AG"
+        android:hasCode="false" />
+
+    <overlay
+        android:targetPackage="com.android.wifi.resources"
+        android:targetName="WifiCustomization"
+        android:requiredSystemPropertyName="ro.boot.hwc"
+        android:requiredSystemPropertyValue="GLOBAL"
+        android:isStatic="true"
+        android:priority="1000" />
+</manifest>
