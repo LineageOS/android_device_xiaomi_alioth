@@ -12,24 +12,35 @@
      limitations under the License.
 -->
 <resources>
-    <!-- for 20dp of padding at 3.5px/dp at default density -->
-    <dimen name="rounded_corner_content_padding">52px</dimen>
+    <!-- Default paddings for content around the corners. -->
+    <dimen name="rounded_corner_content_padding">55px</dimen>
 
     <!-- Default radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">118px</dimen>
+    <dimen name="rounded_corner_radius">126px</dimen>
+
+    <!-- Default adjustment for the software rounded corners since corners are not perfectly
+        round. This value is used when retrieving the "radius" of the rounded corner in cases
+        where the exact bezier curve cannot be retrieved.  This value will be subtracted from
+        rounded_corner_radius to more accurately provide a "radius" for the rounded corner. -->
+    <dimen name="rounded_corner_radius_adjustment">22px</dimen>
 
     <!-- Height of the status bar.
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
          -->
-    <dimen name="status_bar_height_default">28dp</dimen>
+    <dimen name="status_bar_height_default">38dp</dimen>
 
     <!-- Height of the status bar in portrait.
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
          -->
-    <dimen name="status_bar_height_portrait">80px</dimen>
+    <dimen name="status_bar_height_portrait">@dimen/status_bar_height_default</dimen>
 
     <!-- Height of the status bar in landscape.
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
          -->
-    <dimen name="status_bar_height_landscape">@dimen/status_bar_height_default</dimen>
+    <dimen name="status_bar_height_landscape">28dp</dimen>
+
+    <!-- Height of area above QQS where battery/time go.
+         Do not read this dimen directly. Use {@link SystemBarUtils#getQuickQsOffsetHeight} instead.
+         -->
+    <dimen name="quick_qs_offset_height">@dimen/status_bar_height_default</dimen>
 </resources>
