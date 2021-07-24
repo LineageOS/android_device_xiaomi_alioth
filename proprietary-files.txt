@@ -645,7 +645,6 @@ vendor/etc/sensors/config/sx932x_0.json
 vendor/etc/sensors/config/sx932x_1.json
 vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/judge_calibrated.json
-vendor/etc/sensors/hals.conf
 vendor/etc/sensors/proto/descriptor.proto
 vendor/etc/sensors/proto/nanopb.proto
 vendor/etc/sensors/proto/qti_gravity.proto
@@ -756,7 +755,6 @@ vendor/lib/libssccalapi.so
 vendor/lib/libssc_default_listener.so
 vendor/lib/sensors.mius.proximity.so
 vendor/lib/sensors.ssc.so
-vendor/lib/sensors.touch.so
 vendor/lib/libultrasound.so
 vendor/lib64/libnotifyaudiohal.so
 vendor/lib64/libsensorcal.so
@@ -767,7 +765,6 @@ vendor/lib64/libssc_default_listener.so
 vendor/lib64/sensors.elliptic.so
 vendor/lib64/sensors.mius.proximity.so
 vendor/lib64/sensors.ssc.so
-vendor/lib64/sensors.touch.so
 vendor/lib64/libultrasound.so
 
 # Thermal config
