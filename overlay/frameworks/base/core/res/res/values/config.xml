@@ -49,6 +49,12 @@
          empty string is passed in -->
     <string name="config_wlan_data_service_package" translatable="false">vendor.qti.iwlan</string>
 
+    <!-- The default peak refresh rate for a given device. Change this value if you want to prevent
+         the framework from using higher refresh rates, even if display modes with higher refresh
+         rates are available from hardware composer. Only has an effect if the value is
+         non-zero. -->
+    <integer name="config_defaultPeakRefreshRate">60</integer>
+
     <!-- Array of hysteresis constraint values for brightening, represented as tenths of a
         percent. The length of this array is assumed to be one greater than
         config_ambientThresholdLevels. The brightening threshold is calculated as
