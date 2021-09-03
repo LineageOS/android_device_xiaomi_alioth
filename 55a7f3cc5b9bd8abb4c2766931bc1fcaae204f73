@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dd5c29f6_a5a9ae95",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1980,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-09-03T09:25:53Z",
+      "side": 1,
+      "message": "I think the line you are adding is overriding this, so you should test by also removing this line",
+      "range": {
+        "startLine": 1978,
+        "startChar": 0,
+        "endLine": 1980,
+        "endChar": 11
+      },
+      "revId": "55a7f3cc5b9bd8abb4c2766931bc1fcaae204f73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
