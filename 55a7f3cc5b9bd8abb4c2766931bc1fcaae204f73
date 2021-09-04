@@ -22,6 +22,30 @@
       "revId": "55a7f3cc5b9bd8abb4c2766931bc1fcaae204f73",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ee3ee254_e9b2cc6c",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1980,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2021-09-04T03:48:24Z",
+      "side": 1,
+      "message": "its there in apollon too. also in stock",
+      "parentUuid": "dd5c29f6_a5a9ae95",
+      "range": {
+        "startLine": 1978,
+        "startChar": 0,
+        "endLine": 1980,
+        "endChar": 11
+      },
+      "revId": "55a7f3cc5b9bd8abb4c2766931bc1fcaae204f73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
