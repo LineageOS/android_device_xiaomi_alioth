@@ -1,4 +1,4 @@
-# Unpinned blobs from alioth-user 11 RKQ1.200826.002 V12.5.2.0.RKHMIXM release-keys
+# Unpinned blobs from alioth_global-user 11 RKQ1.200826.002 V12.5.3.0.RKHMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
