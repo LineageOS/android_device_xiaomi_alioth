@@ -16,6 +16,23 @@
       "revId": "3c0609728de439e06a102808b86dd11eeac7c9b1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "01e267bb_44c3590a",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2021-09-05T13:57:09Z",
+      "side": 1,
+      "message": "this",
+      "revId": "3c0609728de439e06a102808b86dd11eeac7c9b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
