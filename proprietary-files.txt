@@ -99,9 +99,6 @@ vendor/firmware/spk2_voice_delta.txt
 
 # Camera
 lib/libyuv.so
-vendor/etc/camera/mibokeh_855_opencl.bin
-vendor/etc/camera/mibokeh_855_parameter.bin
-vendor/etc/camera/model_front_mibokeh_video.dlc
 vendor/lib/camera/com.qti.actuator.alioth_dw9800.so
 vendor/lib/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
 vendor/lib/camera/com.qti.eeprom.alioth_ofilm_imx355_bl24s64.so
@@ -460,9 +457,12 @@ vendor/etc/camera/eyelineblush.cng
 vendor/etc/camera/goturn_search_dsp.dlc
 vendor/etc/camera/goturn_target_dsp.dlc
 vendor/etc/camera/hdrd_ui9_params.config
+vendor/etc/camera/mibokeh_855_opencl.bin
+vendor/etc/camera/mibokeh_855_parameter.bin
 vendor/etc/camera/model.dat
 vendor/etc/camera/model_back.dlc
 vendor/etc/camera/model_front.dlc
+vendor/etc/camera/model_front_mibokeh_video.dlc
 vendor/etc/camera/reid_float.dlc
 vendor/etc/camera/sceneDetection.xml
 vendor/etc/camera/seg_quantized.dlc
