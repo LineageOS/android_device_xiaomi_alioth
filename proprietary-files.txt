@@ -686,6 +686,7 @@ vendor/etc/sensors/hals.conf
 vendor/etc/sensors/judge_calibrated.json
 vendor/etc/sensors/sensor_diag.cfg
 vendor/etc/sensors/sns_reg_config
+vendor/etc/elliptic_sensor.xml
 
 # Sensors
 vendor/bin/init.qcom.sensors.sh
@@ -694,7 +695,6 @@ vendor/bin/sscrpcd
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/vendor.sensors.qti.rc
 vendor/etc/init/vendor.sensors.sscrpcd.rc
-vendor/etc/elliptic_sensor.xml
 vendor/lib/libsensorcal.so
 vendor/lib/libsensorslog.so
 vendor/lib/libssc.so
