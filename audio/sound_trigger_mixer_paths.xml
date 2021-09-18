@@ -238,35 +238,26 @@
     <path name="listen-ape-handset-mic">
         <ctl name="VA_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="VA DEC0 MUX" value="SWR_MIC" />
-        <ctl name="VA SMIC MUX0" value="ADC0" />
-        <ctl name="ADC1_MIXER Switch" value="1" />
-        <ctl name="VA_DEC0 Volume" value="98" />
-    </path>
-
-    <path name="listen-ape-handset-mic-preproc">
-        <ctl name="VA_AIF1_CAP Mixer DEC0" value="1" />
-        <ctl name="VA DEC0 MUX" value="SWR_MIC" />
         <ctl name="VA SMIC MUX0" value="ADC3" />
         <ctl name="ADC4_MIXER Switch" value="1" />
         <ctl name="ADC4 MUX" value="INP5" />
-        <ctl name="ADC4 Volume" value="12" />
-        <ctl name="VA_DEC0 Volume" value="84" />
+    </path>
+
+    <path name="listen-ape-handset-mic-preproc">
+        <path name="listen-ape-handset-mic" />
     </path>
 
     <path name="listen-ape-handset-dmic">
         <ctl name="VA_CDC_DMA_TX_0 Channels" value="Two" />
         <ctl name="VA_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="VA_AIF1_CAP Mixer DEC1" value="1" />
-        <ctl name="VA DEC0 MUX" value="SWR_MIC" />
-        <ctl name="VA SMIC MUX0" value="ADC3" />
+        <ctl name="VA DEC1 MUX" value="SWR_MIC" />
+        <ctl name="VA SMIC MUX1" value="ADC3" />
         <ctl name="ADC4_MIXER Switch" value="1" />
         <ctl name="ADC4 MUX" value="INP5" />
-        <ctl name="ADC4 Volume" value="8" />
-        <ctl name="VA DEC1 MUX" value="SWR_MIC" />
-        <ctl name="VA SMIC MUX1" value="ADC2" />
-        <ctl name="ADC3_MIXER Switch" value="1" />
-        <ctl name="ADC3 MUX" value="INP4" />
-        <ctl name="ADC3 Volume" value="8" />
+        <ctl name="VA DEC0 MUX" value="SWR_MIC" />
+        <ctl name="VA SMIC MUX0" value="ADC0" />
+        <ctl name="ADC1_MIXER Switch" value="1" />
         <ctl name="VA_DEC0 Volume" value="84" />
         <ctl name="VA_DEC1 Volume" value="84" />
     </path>
