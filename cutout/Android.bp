@@ -1,0 +1,12 @@
+android_app {
+    name: "CutoutRingService",
+
+    srcs: ["src/**/*.kt"],
+
+    platform_apis: true,
+    certificate: "platform",
+    privileged: true,
+
+    resource_dirs: ["res"],
+
+}
