@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60403a0c_86e1205c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-11-12T20:01:33Z",
+      "side": 1,
+      "message": "As I said, this must be set from common fingerprint HIDL, based on loaded HAL\nCheck how sdm660-common does it",
+      "revId": "c8104095c610f5b2a80001893523d5117e24e32e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
