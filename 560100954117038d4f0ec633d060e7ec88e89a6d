@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "20d6dd20_bd809c0c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29876
+      },
+      "writtenOn": "2021-11-12T17:05:22Z",
+      "side": 1,
+      "message": "Sorry for submitting previous patch to inappropriate tree.(https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8250-common/+/318855)\n\nThis is intended to fix AliPay TouchID for alioth.\n\nFirstly I found that \"setprop persist.vendor.sys.fp.vendor fpc\" fixed AliPay TouchID on my device.\n\nAfter that, I found \"ro.hardware.fp.vendor\u003dfpc\" appearing in the /vendor/build.prop unpacked from (Chinese) stock MIUI image, however \"persist.vendor.sys.fp.vendor\" didn\u0027t appear at all.\n\nHonestly I still don\u0027t know how MIUI handled this. However to me simply \"setprop persist.vendor.sys.fp.vendor fpc\" is already proven to work.",
+      "revId": "560100954117038d4f0ec633d060e7ec88e89a6d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
