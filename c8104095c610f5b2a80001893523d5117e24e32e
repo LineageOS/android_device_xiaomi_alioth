@@ -16,6 +16,24 @@
       "message": "As I said, this must be set from common fingerprint HIDL, based on loaded HAL\nCheck how sdm660-common does it",
       "revId": "c8104095c610f5b2a80001893523d5117e24e32e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fce2219_069f0bdc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29876
+      },
+      "writtenOn": "2021-11-13T00:20:18Z",
+      "side": 1,
+      "message": "Thanks. Then it seems that sm8250-common is already doing something similar to sdm660-common (https://github.com/ALIOTH-DEV-SPACE/device_xiaomi_sm8250-common/blob/44a7224ed3d61636f3c0a21e4d209c50cc9f1865/biometrics/BiometricsFingerprint.cpp#L39), which is using a trial-and-error strategy to open the sensor according to hardcoded vendor name list? I don\u0027t have confidence on my understanding because I\u0027m not famliliar to these things.\n\nI see it\u0027s then possible to just do that setprop job right after successfully opening fingerprint sensor. However I don\u0027t know the situation of other devices which share sm8250-common.",
+      "parentUuid": "60403a0c_86e1205c",
+      "revId": "c8104095c610f5b2a80001893523d5117e24e32e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
