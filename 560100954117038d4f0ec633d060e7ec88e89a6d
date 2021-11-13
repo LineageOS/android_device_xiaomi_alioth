@@ -34,6 +34,24 @@
       "parentUuid": "20d6dd20_bd809c0c",
       "revId": "560100954117038d4f0ec633d060e7ec88e89a6d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2aa98dbc_7717abd4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29876
+      },
+      "writtenOn": "2021-11-13T00:00:49Z",
+      "side": 1,
+      "message": "Honestly I didn\u0027t anticipate building the whole ROM myself because as far as I know everything needed to fix this was merely one line to be added to /vendor/build.prop. If it\u0027s really unacceptable to add such one line to /vendor/build.prop (even if Xiaomi has done something similar) or if doing so won\u0027t fix it (like, as I have tested, directly editing /vendor/build.prop on device \u0026 reboot didn\u0027t seem to take effect; or is there other variant of alioth which has fingerprint vendor other than \"fpc\"?), I\u0027ll probably try to build the ROM myself, however this obviously will take some time...",
+      "parentUuid": "6b094517_b632a24e",
+      "revId": "560100954117038d4f0ec633d060e7ec88e89a6d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
