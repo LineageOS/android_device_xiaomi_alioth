@@ -51,6 +51,24 @@
       "parentUuid": "e972480e_f5dd9af8",
       "revId": "89c0601e02ca944eb1a9ba3d788078614e72f518",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85d980f8_a84a84a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-11-15T12:08:43Z",
+      "side": 1,
+      "message": "We all have aw8697_haptic",
+      "parentUuid": "a4661fdc_f1e06186",
+      "revId": "89c0601e02ca944eb1a9ba3d788078614e72f518",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
