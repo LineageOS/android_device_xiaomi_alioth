@@ -466,8 +466,6 @@ vendor/lib64/libmulticam_optical_zoom_control.so
 vendor/lib64/libmulticam_video_optical_zoom.so
 
 # Display-calibration
-vendor/etc/ltm_config_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
-vendor/etc/mdss_dsi_k11a_38_08_0a_dsc_cmd_mi.xml
 vendor/etc/qdcm_calib_data_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
 
 # Fingerprint
