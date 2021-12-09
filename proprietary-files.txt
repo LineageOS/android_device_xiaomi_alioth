@@ -81,7 +81,6 @@ vendor/firmware/spk2_playback_delta.txt
 vendor/firmware/spk2_voice_delta.txt
 
 # Camera
-lib/libyuv.so
 vendor/lib/camera/com.qti.actuator.alioth_dw9800.so
 vendor/lib/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
 vendor/lib/camera/com.qti.eeprom.alioth_ofilm_imx355_bl24s64.so
