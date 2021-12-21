@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c47d83f_ede7fea9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-12-21T15:25:08Z",
+      "side": 1,
+      "message": "Seems not needed\n\n int numPhysicalSlots \u003d c.getResources().getInteger(\n         com.android.internal.R.integer.config_num_physical_slots);\n numPhysicalSlots \u003d TelephonyProperties.sim_slots_count().orElse(numPhysicalSlots);\n\nIt will use what will get from TelephonyProperties, unless it fixes something\n",
+      "revId": "105122739006335bf005c2fa45da6499395be638",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
