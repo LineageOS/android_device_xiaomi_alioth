@@ -34,6 +34,24 @@
       "parentUuid": "5c47d83f_ede7fea9",
       "revId": "105122739006335bf005c2fa45da6499395be638",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9372048a_7d57e64b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-12-21T17:52:27Z",
+      "side": 1,
+      "message": "The device can already get that from RIL stack, there\u0027s no need to set it",
+      "parentUuid": "d821ae75_8d7216f9",
+      "revId": "105122739006335bf005c2fa45da6499395be638",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
