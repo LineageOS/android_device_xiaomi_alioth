@@ -87,6 +87,24 @@
       "message": "remove the -2 pls",
       "revId": "105122739006335bf005c2fa45da6499395be638",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb3bec8a_2ea08728",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-12-21T18:37:30Z",
+      "side": 1,
+      "message": "No because it\u0027s not needed, as the piece of code I sent already proves it\nIt will only complicate stuff for mikona, where not all devices has 2 SIM slots (elish and enuma don\u0027t even have SIM slots)",
+      "parentUuid": "b6b88d94_b1cd9ff5",
+      "revId": "105122739006335bf005c2fa45da6499395be638",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
