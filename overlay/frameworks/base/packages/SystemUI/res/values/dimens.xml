@@ -37,9 +37,6 @@
     default that should be overridden by device-specific overlays. -->
     <dimen name="physical_power_button_center_screen_location_y">@dimen/physical_fingerprint_sensor_center_screen_location_y</dimen>
 
-    <!-- for 20dp of padding at 3.5px/dp at default density -->
-    <dimen name="rounded_corner_content_padding">52px</dimen>
-
     <!-- Height of the status bar header bar when on Keyguard -->
     <dimen name="status_bar_header_height_keyguard">@dimen/navigation_side_padding</dimen>
 </resources>
