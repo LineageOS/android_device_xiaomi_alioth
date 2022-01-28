@@ -12,18 +12,6 @@
      limitations under the License.
 -->
 <resources>
-
-    <!-- Height of the status bar.
-         Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
-         -->
-    <dimen name="status_bar_height_default">28dp</dimen>
-    <dimen name="status_bar_height_portrait">94px</dimen>
-    <dimen name="status_bar_height_landscape">28dp</dimen>
-
-    <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">52.0px</dimen>
-
-    <!-- Adjustment for software rounded corners since corners aren't perfectly round. -->
-    <dimen name="rounded_corner_radius_adjustment">5px</dimen>
-
+    <!-- for 20dp of padding at 3.5px/dp at default density -->
+    <dimen name="rounded_corner_content_padding">52.0px</dimen>
 </resources>
