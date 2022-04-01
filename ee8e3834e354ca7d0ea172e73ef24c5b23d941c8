@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "efed03f1_98e33ebb",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-04-01T19:36:58Z",
+      "side": 1,
+      "message": "You could reference physical_fingerprint_sensor_center_screen_location_y here instead, like I did in gts4lv-common.",
+      "range": {
+        "startLine": 34,
+        "startChar": 65,
+        "endLine": 34,
+        "endChar": 70
+      },
+      "revId": "ee8e3834e354ca7d0ea172e73ef24c5b23d941c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
