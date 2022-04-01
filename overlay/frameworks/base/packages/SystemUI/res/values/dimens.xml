@@ -27,11 +27,11 @@
      display fingerprint sensors, this directly corresponds to the fingerprint sensor's location.
      For devices with sensors on the back of the device, this corresponds to the location on the
      screen directly in front of the sensor. -->
-    <dimen name="physical_fingerprint_sensor_center_screen_location_y">975px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">970px</dimen>
 
     <!-- Location on the screen of the center of the physical power button. This is a reasonable
     default that should be overridden by device-specific overlays. -->
-    <dimen name="physical_power_button_center_screen_location_y">975px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">@dimen/physical_fingerprint_sensor_center_screen_location_y</dimen>
 
     <!-- for 20dp of padding at 3.5px/dp at default density -->
     <dimen name="rounded_corner_content_padding">50px</dimen>
