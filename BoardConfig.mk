@@ -6,6 +6,7 @@
 
 # Inherit from sm8250-common
 include device/xiaomi/sm8250-common/BoardConfigCommon.mk
+include device/xiaomi/sm8250-common/board/BoardConfigVAB.mk
 
 DEVICE_PATH := device/xiaomi/alioth
 
