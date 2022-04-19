@@ -39,6 +39,7 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_xiaomi_alioth
 TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_alioth
 
 # Kernel
+BOARD_MKBOOTIMG_ARGS += --header_version 3
 TARGET_KERNEL_CONFIG := vendor/alioth_defconfig
 
 # OTA assert
