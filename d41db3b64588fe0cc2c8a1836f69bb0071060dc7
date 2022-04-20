@@ -16,6 +16,24 @@
       "message": "Quoting Google docs:\n Devices launching with virtual A/B need only half as much board size for BOARD_SUPER_PARTITION_SIZE because B slots are no longer in super. That is, BOARD_SUPER_PARTITION_SIZE must be greater than or equal to sum(size of update groups) + overhead, which, in turn, must be greater than or equal to sum(size of partitions) + overhead.\n\nOur devices are launched with VAB, so we can\u0027t do this I think?\n",
       "revId": "d41db3b64588fe0cc2c8a1836f69bb0071060dc7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47b2f866_13aa0f3b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-04-20T10:01:13Z",
+      "side": 1,
+      "message": "doing this will need wipe. i don\u0027t think we can do this anymore",
+      "parentUuid": "3dbf7c27_b2740922",
+      "revId": "d41db3b64588fe0cc2c8a1836f69bb0071060dc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
