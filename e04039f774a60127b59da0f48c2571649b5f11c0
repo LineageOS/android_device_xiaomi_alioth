@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "94bd5f29_95f25d95",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-04-20T10:00:53Z",
+      "side": 1,
+      "message": "include device/xiaomi/sm8250-common/vab/board.mk",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 59
+      },
+      "revId": "e04039f774a60127b59da0f48c2571649b5f11c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
