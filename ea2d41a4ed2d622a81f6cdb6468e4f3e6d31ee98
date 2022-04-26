@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5939e23d_fe005934",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-04-26T16:47:07Z",
+      "side": 1,
+      "message": "https://gitlab.com/sdm870/android_vendor_xiaomi/-/commit/2cf1766683cafb6886ac41dc67b07f9872000bc3",
+      "revId": "ea2d41a4ed2d622a81f6cdb6468e4f3e6d31ee98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
