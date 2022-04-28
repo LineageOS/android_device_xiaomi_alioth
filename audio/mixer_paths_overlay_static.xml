@@ -986,13 +986,14 @@
         <ctl name="ADC4 Volume" value="6" />
     </path>
 
-    <path name="va-enroll-mic">
+    <path name="voice-rec-mic">
         <ctl name="TX DEC0 MUX" value="SWR_MIC"/>
         <ctl name="TX SMIC MUX0" value="ADC0" />
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="One" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
         <ctl name="ADC1_MIXER Switch" value="1" />
-        <ctl name="ADC1 Volume" value="12" />
+        <ctl name="ADC1 Volume" value="8" />
+        <ctl name="TX_DEC0 Volume" value="88" />
     </path>
 
     <path name="speaker-mic">
