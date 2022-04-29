@@ -438,15 +438,6 @@ vendor/bin/sscrpcd
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/vendor.sensors.qti.rc
 vendor/etc/init/vendor.sensors.sscrpcd.rc
-vendor/lib/libsensorcal.so
-vendor/lib/libsensorslog.so
-vendor/lib/libssc.so
-vendor/lib/libssc_default_listener.so
-vendor/lib/libssccalapi.so
-vendor/lib/libultrasound.so
-vendor/lib/sensors.mius.proximity.so
-vendor/lib/sensors.ssc.so
-vendor/lib/sensors.touch.so
 vendor/lib64/libnotifyaudiohal.so
 vendor/lib64/libsensorcal.so
 vendor/lib64/libsensorslog.so
