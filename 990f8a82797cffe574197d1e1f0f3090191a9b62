@@ -34,6 +34,24 @@
       "parentUuid": "bb2dea11_4619d636",
       "revId": "990f8a82797cffe574197d1e1f0f3090191a9b62",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3aa6b7ff_24120417",
+        "filename": "lineage_alioth.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-05-01T07:07:17Z",
+      "side": 0,
+      "message": "I usually use the fingerprint in vendor/build.prop here\nthen the ones in $variant.build.prop goes to libinit",
+      "parentUuid": "75424848_5e0f1c6f",
+      "revId": "990f8a82797cffe574197d1e1f0f3090191a9b62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
