@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8602a75e_a0d740d3",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1982,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-05-01T06:06:09Z",
+      "side": 1,
+      "message": "i think we removed this because of duplicate",
+      "revId": "8a551cc6c5f0c9f88df13f42a706696914cb5004",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
