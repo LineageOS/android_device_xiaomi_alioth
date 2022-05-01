@@ -1,4 +1,4 @@
-# Unpinned blobs from alioth_global-user 11 RKQ1.200826.002 V12.5.6.0.RKHMIXM release-keys
+# Unpinned blobs from alioth_global-user 12 RKQ1.200826.002 V13.0.2.0.RKHMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
@@ -51,9 +51,14 @@ vendor/lib/vndk/libxlog.so
 vendor/lib/liba2dpoffload.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libaudioroute_ext.so
-vendor/lib/libfcsam.so
 vendor/lib/libresampler.so
 vendor/lib/vendor.qti.hardware.audiohalext@1.0.so
+vendor/lib64/hw/audio.primary.kona.so
+vendor/lib64/liba2dpoffload.so
+vendor/lib64/libaudio_log_utils.so
+vendor/lib64/libaudioroute_ext.so
+vendor/lib64/libresampler.so
+vendor/lib64/vendor.qti.hardware.audiohalext@1.0.so
 
 # Audio (Firmware)
 vendor/firmware/cs35l41-dsp1-diag-revb2.wmfw
@@ -76,6 +81,93 @@ vendor/firmware/spk2_playback_delta.txt
 vendor/firmware/spk2_voice_delta.txt
 
 # Camera
+vendor/lib/camera/com.qti.actuator.alioth_dw9800.so
+vendor/lib/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
+vendor/lib/camera/com.qti.eeprom.alioth_ofilm_imx355_bl24s64.so
+vendor/lib/camera/com.qti.eeprom.alioth_ofilm_imx582_gt24p128c.so
+vendor/lib/camera/com.qti.eeprom.alioth_ofilm_s5k3t2_ofl2488.so
+vendor/lib/camera/com.qti.eeprom.alioth_sunny_imx355_gt24p64e.so
+vendor/lib/camera/com.qti.eeprom.alioth_sunny_imx582_gt24p128e.so
+vendor/lib/camera/com.qti.eeprom.alioth_sunny_s5k3t2_p24c64f.so
+vendor/lib/camera/com.qti.eeprom.alioth_sunny_s5k5e9yx04_p24c64f.so
+vendor/lib/camera/com.qti.eeprom.truly_cmb433.so
+vendor/lib/camera/com.qti.eeprom.umi_sunny_s5k5e8yx_depth.so
+vendor/lib/camera/com.qti.sensor.alioth_hi556.so
+vendor/lib/camera/com.qti.sensor.alioth_imx355.so
+vendor/lib/camera/com.qti.sensor.alioth_imx582.so
+vendor/lib/camera/com.qti.sensor.alioth_s5k3t2.so
+vendor/lib/camera/com.qti.sensor.alioth_s5k5e9yx04.so
+vendor/lib/camera/com.qti.sensor.imx563.so
+vendor/lib/camera/com.qti.sensormodule.alioth_ofilm_hi556_macro.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_ofilm_imx355_ultra.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_ofilm_imx582_wide.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_ofilm_s5k3t2_front.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_sunny_imx355_ultra.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_sunny_imx582_wide.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_sunny_s5k3t2_front.bin
+vendor/lib/camera/com.qti.sensormodule.alioth_sunny_s5k5e9yx04_macro.bin
+vendor/lib/camera/com.qti.tuned.alioth_ofilm_hi556_macro.bin
+vendor/lib/camera/com.qti.tuned.alioth_ofilm_imx355_ultra.bin
+vendor/lib/camera/com.qti.tuned.alioth_ofilm_imx582_wide.bin
+vendor/lib/camera/com.qti.tuned.alioth_ofilm_s5k3t2_front.bin
+vendor/lib/camera/com.qti.tuned.alioth_sunny_imx355_ultra.bin
+vendor/lib/camera/com.qti.tuned.alioth_sunny_imx582_wide.bin
+vendor/lib/camera/com.qti.tuned.alioth_sunny_s5k3t2_front.bin
+vendor/lib/camera/com.qti.tuned.alioth_sunny_s5k5e9yx04_macro.bin
+vendor/lib/camera/com.qti.tuned.default.bin
+vendor/lib/camera/fdconfigpreview.bin
+vendor/lib/camera/fdconfigpreviewlite.bin
+vendor/lib/camera/fdconfigvideo.bin
+vendor/lib/camera/fdconfigvideolite.bin
+vendor/lib/hw/camera.qcom.so
+vendor/lib/hw/com.qti.chi.override.so
+vendor/lib/com.qti.feature2.demux.so
+vendor/lib/com.qti.feature2.frameselect.so
+vendor/lib/com.qti.feature2.fusion.so
+vendor/lib/com.qti.feature2.generic.so
+vendor/lib/com.qti.feature2.gs.so
+vendor/lib/com.qti.feature2.hdr.so
+vendor/lib/com.qti.feature2.memcpy.so
+vendor/lib/com.qti.feature2.mfsr.so
+vendor/lib/com.qti.feature2.qcfa.so
+vendor/lib/com.qti.feature2.rawhdr.so
+vendor/lib/com.qti.feature2.rawsupernight.so
+vendor/lib/com.qti.feature2.rt.so
+vendor/lib/com.qti.feature2.serializer.so
+vendor/lib/com.qti.feature2.softispprocess.so
+vendor/lib/com.qti.feature2.softispsupernight.so
+vendor/lib/com.qti.feature2.sr.so
+vendor/lib/com.qti.feature2.stub.so
+vendor/lib/com.qti.feature2.swmf.so
+vendor/lib/libcamera_nn_stub.so
+vendor/lib/libcamerapostproc.so
+vendor/lib/libcapiv2svacnn.so
+vendor/lib/libcapiv2svarnn.so
+vendor/lib/libcapiv2vop.so
+vendor/lib/libchilog.so
+vendor/lib/libcom.qti.chinodeutils.so
+vendor/lib/libcvface_api.so
+vendor/lib/libcvface_api.so
+vendor/lib/libcvp2.so
+vendor/lib/libcvp2_hfi.so
+vendor/lib/libcvp_common.so
+vendor/lib/libcvpcpuRev_skel.so
+vendor/lib/libfcsam.so
+vendor/lib/libipebpsstriping.so
+vendor/lib/libnanopb.so
+vendor/lib/libofflinelog.so
+vendor/lib/libos.so
+vendor/lib/libsns_device_mode_stub.so
+vendor/lib/libsns_fastRPC_util.so
+vendor/lib/libsns_low_lat_stream_stub.so
+vendor/lib/libsns_registry_skel.so
+vendor/lib/libsnsapi.so
+vendor/lib/libsnsdiaglog.so
+vendor/lib/libswregistrationalgo.so
+vendor/lib/libswvdec.so
+vendor/lib/libsynx.so
+vendor/lib/libthreadutils.so
+vendor/lib/libvideoutils.so
 vendor/lib64/camera/com.qti.actuator.alioth_dw9800.so
 vendor/lib64/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
 vendor/lib64/camera/com.qti.eeprom.alioth_ofilm_imx355_bl24s64.so
@@ -216,7 +308,7 @@ vendor/lib64/libvideofilter_only.so
 vendor/lib64/libvidhance.so
 vendor/lib64/libxmi_hdr_checker.so
 vendor/lib64/libxmi_high_dynamic_range.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|004d73d02b4967170ecc3f6e5450b0f56eaf4c5a|040754908683f59ee1b5b7f962f659fbed3a515a
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|004d73d02b4967170ecc3f6e5450b0f56eaf4c5a|afeca01f1fc2619ddf1aada01d42735ab9efa682
 
 # Camera-arcsoft
 vendor/lib64/libarcsoft_beautyshot.so
@@ -319,6 +411,10 @@ vendor/lib64/camera/components/libdepthmapwrapper.so
 vendor/lib64/camera/components/libubifocus.so
 
 # Camera configs
+vendor/camera/fonts/FZMiaoWuJW.ttf
+vendor/camera/fonts/MFYueYuan-Regular.ttf
+vendor/camera/fonts/MI+LanTing_GB+Outside+YS_V2.3_20160322.ttf
+vendor/camera/fonts/MIUI_Time.ttf
 vendor/camera/model/model_front.dlc
 vendor/etc/camera/misupermoon/MobNetv2TF_0.35_iter200000_zoom2.5x_h1500w2000.dlc
 vendor/etc/camera/CFR_para_UW_V01.bin
@@ -360,6 +456,8 @@ vendor/etc/camera/vidhance_calibration
 vendor/firmware/CAMERA_ICP.elf
 
 # Camera-sensors
+vendor/lib/libmmcamera_faceproc.so
+vendor/lib/libmmcamera_faceproc2.so
 vendor/lib64/libmmcamera_faceproc.so
 vendor/lib64/libmmcamera_faceproc2.so
 vendor/lib64/libmulticam_image_optical_zoom.so
@@ -414,6 +512,7 @@ vendor/etc/sensors/config/sns_geomag_rv.json
 vendor/etc/sensors/config/sns_gyro_cal.json
 vendor/etc/sensors/config/sns_mag_cal.json
 vendor/etc/sensors/config/sns_nonui.json
+vendor/etc/sensors/config/sns_oem13.json
 vendor/etc/sensors/config/sns_pedometer.json
 vendor/etc/sensors/config/sns_rmd.json
 vendor/etc/sensors/config/sns_rotv.json
@@ -439,6 +538,15 @@ vendor/bin/sscrpcd
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/vendor.sensors.qti.rc
 vendor/etc/init/vendor.sensors.sscrpcd.rc
+vendor/lib/libsensorcal.so
+vendor/lib/libsensorslog.so
+vendor/lib/libssc.so
+vendor/lib/libssc_default_listener.so
+vendor/lib/libssccalapi.so
+vendor/lib/libultrasound.so
+vendor/lib/sensors.mius.proximity.so
+vendor/lib/sensors.ssc.so
+vendor/lib/sensors.touch.so
 vendor/lib64/libnotifyaudiohal.so
 vendor/lib64/libsensorcal.so
 vendor/lib64/libsensorslog.so
