@@ -28,6 +28,9 @@ ro.vendor.audio.spk.stereo=true
 ro.vendor.audio.us.type=mius
 ro.vendor.audio.zoom.support=true
 ro.vendor.audio.zoom.type=1
+vendor.audio.adm.buffering.ms=2
+vendor.audio.offload.buffer.size.kb=256
+vendor.audio_hal.period_multiplier=2
 
 # Display
 ro.vendor.display.paneltype=2
