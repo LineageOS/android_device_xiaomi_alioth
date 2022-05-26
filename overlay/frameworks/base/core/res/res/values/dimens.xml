@@ -12,18 +12,21 @@
      limitations under the License.
 -->
 <resources>
+    <!-- Default radius of the software rounded corners. -->
+    <dimen name="rounded_corner_radius">118px</dimen>
 
     <!-- Height of the status bar.
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
          -->
     <dimen name="status_bar_height_default">28dp</dimen>
-    <dimen name="status_bar_height_portrait">94px</dimen>
-    <dimen name="status_bar_height_landscape">28dp</dimen>
 
-    <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">52.0px</dimen>
+    <!-- Height of the status bar in portrait.
+         Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
+         -->
+    <dimen name="status_bar_height_portrait">80px</dimen>
 
-    <!-- Adjustment for software rounded corners since corners aren't perfectly round. -->
-    <dimen name="rounded_corner_radius_adjustment">5px</dimen>
-
+    <!-- Height of the status bar in landscape.
+         Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
+         -->
+    <dimen name="status_bar_height_landscape">@dimen/status_bar_height_default</dimen>
 </resources>
