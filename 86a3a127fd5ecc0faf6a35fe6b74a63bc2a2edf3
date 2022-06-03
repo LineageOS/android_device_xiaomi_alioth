@@ -16,6 +16,24 @@
       "message": "What does this change solve?",
       "revId": "86a3a127fd5ecc0faf6a35fe6b74a63bc2a2edf3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc3f15c9_e0f49b82",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-06-03T04:30:26Z",
+      "side": 1,
+      "message": "it was done to remove sensetime license.",
+      "parentUuid": "2e1acabf_05c40661",
+      "revId": "86a3a127fd5ecc0faf6a35fe6b74a63bc2a2edf3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
