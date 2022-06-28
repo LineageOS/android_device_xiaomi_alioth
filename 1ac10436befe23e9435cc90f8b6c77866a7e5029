@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1eeec0fd_8ba6f1b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31305
+      },
+      "writtenOn": "2022-06-28T18:20:49Z",
+      "side": 1,
+      "message": "I\u0027m not sure if this is correct at all!\nI just followed this reddit:\n\nhttps://www.reddit.com/r/LineageOS/comments/qxcfyc/allow_disabling_fingerprint_wakeandunlock/",
+      "revId": "1ac10436befe23e9435cc90f8b6c77866a7e5029",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
