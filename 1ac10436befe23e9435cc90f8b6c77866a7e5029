@@ -16,6 +16,23 @@
       "message": "I\u0027m not sure if this is correct at all!\nI just followed this reddit:\n\nhttps://www.reddit.com/r/LineageOS/comments/qxcfyc/allow_disabling_fingerprint_wakeandunlock/",
       "revId": "1ac10436befe23e9435cc90f8b6c77866a7e5029",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90179b2d_08aa71fe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-06-28T20:04:00Z",
+      "side": 1,
+      "message": "Nope. Stock behaviour is different. It unlock when you press fps, aosp one need to unlock then press fps.",
+      "revId": "1ac10436befe23e9435cc90f8b6c77866a7e5029",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
