@@ -482,27 +482,6 @@ vendor/lib64/sensors.mius.proximity.so
 vendor/lib64/sensors.ssc.so
 vendor/lib64/sensors.touch.so
 
-# Thermal config
-vendor/etc/thermal-camera.conf
-vendor/etc/thermal-class0.conf
-vendor/etc/thermal-engine.conf
-vendor/etc/thermal-india-class0.conf
-vendor/etc/thermal-india-mgame.conf
-vendor/etc/thermal-india-normal.conf
-vendor/etc/thermal-india-tgame.conf
-vendor/etc/thermal-india-video.conf
-vendor/etc/thermal-map-india.conf
-vendor/etc/thermal-map.conf
-vendor/etc/thermal-mgame.conf
-vendor/etc/thermal-navigation.conf
-vendor/etc/thermal-nolimits.conf
-vendor/etc/thermal-normal.conf
-vendor/etc/thermal-phone.conf
-vendor/etc/thermal-region-map.conf
-vendor/etc/thermal-tgame.conf
-vendor/etc/thermal-video.conf
-vendor/etc/thermald-devices.conf
-
 # Vibrator firmware
 vendor/firmware/aw8697_haptic.bin
 vendor/firmware/aw8697_rtp_1.bin
