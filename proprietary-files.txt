@@ -365,6 +365,16 @@ vendor/lib64/libmulticam_image_optical_zoom.so
 vendor/lib64/libmulticam_optical_zoom_control.so
 vendor/lib64/libmulticam_video_optical_zoom.so
 
+# Charger (HVDCP)
+vendor/bin/hvdcp_opti
+vendor/bin/init.qti.chg_policy.sh
+vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc
+vendor/etc/charger_fstab.qti
+
+# Charger (Mi Turbo Charge)
+vendor/bin/batterysecret
+vendor/etc/init/init.batterysecret.rc
+
 # Display-calibration
 vendor/etc/qdcm_calib_data_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
 
@@ -376,6 +386,21 @@ vendor/lib64/hw/fingerprint.fpc.so:vendor/lib64/hw/fingerprint.fpc.default.so
 -product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 system_ext/framework/com.android.hotwordenrollment.common.util.jar
+
+# IPA firmware
+vendor/etc/init/ipa_fws.rc
+vendor/firmware/ipa_fws.b00
+vendor/firmware/ipa_fws.b01
+vendor/firmware/ipa_fws.b02
+vendor/firmware/ipa_fws.b03
+vendor/firmware/ipa_fws.b04
+vendor/firmware/ipa_fws.elf
+vendor/firmware/ipa_fws.mdt
+vendor/firmware/ipa_uc.b00
+vendor/firmware/ipa_uc.b01
+vendor/firmware/ipa_uc.b02
+vendor/firmware/ipa_uc.elf
+vendor/firmware/ipa_uc.mdt
 
 # Sensor calibrate
 vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service
