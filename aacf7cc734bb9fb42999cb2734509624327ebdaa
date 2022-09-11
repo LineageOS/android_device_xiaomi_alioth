@@ -142,6 +142,24 @@
       "parentUuid": "3ce76d71_efb3b0d9",
       "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e60c7276_9e6df9b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-09-11T12:52:15Z",
+      "side": 1,
+      "message": "Yeah, per charter this counts as SafetyNet circumvention https://github.com/LineageOS/charter/blob/master/device-support-requirements.md#safetynet, you might want to add Nolen as reviewer for feedback",
+      "parentUuid": "05d4f6b1_a632af84",
+      "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
