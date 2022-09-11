@@ -52,6 +52,24 @@
       "parentUuid": "e99dbd21_b6b2d4b4",
       "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11d4cc6a_1f450170",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-09-11T12:41:58Z",
+      "side": 1,
+      "message": "safetynet wont pass with hand made fp",
+      "parentUuid": "cc404634_144bbc02",
+      "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
