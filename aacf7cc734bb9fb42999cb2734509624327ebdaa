@@ -160,6 +160,24 @@
       "parentUuid": "05d4f6b1_a632af84",
       "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a68f4e4d_dcf183bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-09-11T12:57:05Z",
+      "side": 1,
+      "message": "We are not altering SafetyNet validation responses here.",
+      "parentUuid": "e60c7276_9e6df9b2",
+      "revId": "aacf7cc734bb9fb42999cb2734509624327ebdaa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
