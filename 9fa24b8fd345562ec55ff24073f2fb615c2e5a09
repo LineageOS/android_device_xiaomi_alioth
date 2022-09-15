@@ -16,6 +16,24 @@
       "message": "Fingerprints are allowlisted, not denylisted, with Google. From my perspective, if the new fingerprint passes Google\u0027s checks then someone with permissions officially registered it.",
       "revId": "9fa24b8fd345562ec55ff24073f2fb615c2e5a09",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "936e1f9d_547358ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-09-15T21:03:09Z",
+      "side": 1,
+      "message": "my opinions as well tbh.",
+      "parentUuid": "f0c7cfc3_f464cfb7",
+      "revId": "9fa24b8fd345562ec55ff24073f2fb615c2e5a09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
