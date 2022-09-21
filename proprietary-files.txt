@@ -44,6 +44,8 @@ vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so
 vendor/lib/rfsa/adsp/misound_karaoke_res.bin
 vendor/lib/rfsa/adsp/misound_karaokemix_res.bin
 vendor/lib/rfsa/adsp/misound_res.bin
+vendor/lib/rfsa/adsp/misound_res_headphone.bin
+vendor/lib/rfsa/adsp/misound_res_spk.bin
 
 # Audio-Hardware
 vendor/lib/hw/audio.primary.kona.so
