@@ -1,4 +1,4 @@
-# Unpinned blobs from alioth_global-user 12 RKQ1.200826.002 V13.0.3.0.RKHMIXM release-keys
+# Unpinned blobs from alioth_global-user 12 RKQ1.211001.001-V13.0.5.0.SKHMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
@@ -14,6 +14,7 @@ vendor/etc/acdbdata/adsp_avs_config.acdb
 # ADSP modules
 vendor/lib/rfsa/adsp/capi_v2_cirrus_sp.so
 vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so
+vendor/lib/rfsa/adsp/hrtf5c.bin
 vendor/lib/rfsa/adsp/libMIAIHDR_skel.so
 vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so
 vendor/lib/rfsa/adsp/libSuperSensor_skel.so
