@@ -273,7 +273,7 @@ vendor/lib64/camera/components/com.mi.node.rearvideo.so
 vendor/lib64/camera/components/com.mi.node.skinbeautifier.so
 vendor/lib64/camera/components/com.mi.node.superlowlightraw.so
 vendor/lib64/camera/components/com.mi.node.videobokeh.so
-vendor/lib64/camera/components/com.mi.node.watermark.so
+vendor/lib64/camera/components/com.mi.node.watermark.so|eb95d3326e6ba5506d0c2d03787f4b5f0dc39edd|4fd522583fa2511d48e7ce33cdd5433ea7304a9f
 vendor/lib64/camera/components/com.qti.camx.chiiqutils.so
 vendor/lib64/camera/components/com.qti.eisv2.so
 vendor/lib64/camera/components/com.qti.eisv3.so
