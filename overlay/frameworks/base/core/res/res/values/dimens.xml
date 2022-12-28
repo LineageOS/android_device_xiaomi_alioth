@@ -22,7 +22,7 @@
         round. This value is used when retrieving the "radius" of the rounded corner in cases
         where the exact bezier curve cannot be retrieved.  This value will be subtracted from
         rounded_corner_radius to more accurately provide a "radius" for the rounded corner. -->
-    <dimen name="rounded_corner_radius_adjustment">22px</dimen>
+    <dimen name="rounded_corner_radius_adjustment">25px</dimen>
 
     <!-- Height of the status bar.
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
