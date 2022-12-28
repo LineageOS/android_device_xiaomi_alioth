@@ -30,9 +30,5 @@ ro.vendor.audio.zoom.support=true
 ro.vendor.audio.zoom.type=1
 
 # Display
-ro.surface_flinger.has_HDR_display=true
-ro.surface_flinger.has_wide_color_display=true
-ro.surface_flinger.use_color_management=true
-ro.surface_flinger.wcg_composition_dataspace=143261696
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
