@@ -2616,6 +2616,34 @@
         <ctl name="BRL PCM Source" value="DSP" />
     </path>
 
+    <path name="speaker-tl">
+        <ctl name="TERT_TDM_RX_0 Channels" value="Two" />
+        <ctl name="TERT_TDM_RX_0 Format" value="S24_LE" />
+        <ctl name="TERT_TDM_RX_0 SampleRate" value="KHZ_48" />
+        <ctl name="TL PCM Source" value="DSP" />
+    </path>
+
+    <path name="speaker-tr">
+        <ctl name="TERT_TDM_RX_0 Channels" value="Two" />
+        <ctl name="TERT_TDM_RX_0 Format" value="S24_LE" />
+        <ctl name="TERT_TDM_RX_0 SampleRate" value="KHZ_48" />
+        <ctl name="TR PCM Source" value="DSP" />
+    </path>
+
+    <path name="speaker-br">
+        <ctl name="TERT_TDM_RX_0 Channels" value="Two" />
+        <ctl name="TERT_TDM_RX_0 Format" value="S24_LE" />
+        <ctl name="TERT_TDM_RX_0 SampleRate" value="KHZ_48" />
+        <ctl name="BR PCM Source" value="DSP" />
+    </path>
+
+    <path name="speaker-bl">
+        <ctl name="TERT_TDM_RX_0 Channels" value="Two" />
+        <ctl name="TERT_TDM_RX_0 Format" value="S24_LE" />
+        <ctl name="TERT_TDM_RX_0 SampleRate" value="KHZ_48" />
+        <ctl name="BL PCM Source" value="DSP" />
+    </path>
+
     <path name="four-channel-speaker">
         <ctl name="TERT_TDM_TX_0 Channels" value="Four" />
         <ctl name="TERT_TDM_RX_0 Channels" value="Four" />
@@ -3264,6 +3292,9 @@
     </path>
 
     <path name="afe-proxy">
+    </path>
+
+    <path name="afe-proxy-record">
     </path>
 
     <path name="display-port">
