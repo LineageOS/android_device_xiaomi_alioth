@@ -16,6 +16,23 @@
       "message": "tested and okay",
       "revId": "80aeb9ca812e9e7b15bdd2750dbe60ed65a56927",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4f298d9f_8e7ed6d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-05-16T11:53:11Z",
+      "side": 1,
+      "message": "https://github.com/sdm870/proprietary_vendor_xiaomi_alioth/commits/lineage-20",
+      "revId": "80aeb9ca812e9e7b15bdd2750dbe60ed65a56927",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
