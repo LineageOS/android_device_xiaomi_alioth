@@ -28,6 +28,7 @@ TARGET_KERNEL_CONFIG += vendor/xiaomi/alioth.config
 TARGET_OTA_ASSERT_DEVICE := alioth,aliothin
 
 # Properties
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Inherit from the proprietary version

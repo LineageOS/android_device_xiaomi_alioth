@@ -32,3 +32,7 @@ ro.vendor.audio.zoom.type=1
 # Display
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
+
+# Hvdcp
+persist.vendor.pps.disallowed=1
+persist.vendor.hvdcp_opti.disallowed=1
