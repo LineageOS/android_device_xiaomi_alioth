@@ -29,6 +29,11 @@ ro.vendor.audio.us.type=mius
 ro.vendor.audio.zoom.support=true
 ro.vendor.audio.zoom.type=1
 
+# Charger
+persist.vendor.cp.fcc_main_ua=400000
+persist.vendor.cp.taper_term_mv=7000
+persist.vendor.cp.qc3p5_vfloat_offset_uv=110000
+
 # Display
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
