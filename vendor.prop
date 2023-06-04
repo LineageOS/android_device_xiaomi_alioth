@@ -32,3 +32,12 @@ ro.vendor.audio.zoom.type=1
 # Display
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
+
+# Charger
+persist.vendor.cp.fcc_main_ua=400000
+persist.vendor.cp.taper_term_mv=7000
+persist.vendor.cp.qc3p5_vfloat_offset_uv=110000
+
+# Hvdcp
+persist.vendor.pps.disallowed=1
+persist.vendor.hvdcp_opti.disallowed=1
