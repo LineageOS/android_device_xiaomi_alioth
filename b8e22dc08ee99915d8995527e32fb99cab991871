@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "23ad6437_10dca891",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-07T15:32:37Z",
+      "side": 1,
+      "message": "No neverallows, checked",
+      "parentUuid": "71ce7aa9_4883ae79",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 47
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a36528e1_f12547d4",
@@ -64,6 +88,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6bfeb61_2f7072ca",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-07T15:32:37Z",
+      "side": 1,
+      "message": "Its for offline charging. needed to be added common. Not deprecated",
+      "parentUuid": "a36528e1_f12547d4",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 27
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f5162497_b464d7b3",
@@ -77,6 +125,30 @@
       "writtenOn": "2023-06-04T12:00:53Z",
       "side": 1,
       "message": "Do they do anything?",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 38
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5306588f_4f181d2f",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-07T15:32:37Z",
+      "side": 1,
+      "message": "Not sure. picked from stock, since we were missing",
+      "parentUuid": "f5162497_b464d7b3",
       "range": {
         "startLine": 37,
         "startChar": 0,
