@@ -65,6 +65,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "49cbe12a_72a221cc",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-06-07T15:59:18Z",
+      "side": 1,
+      "message": "I mean, check if they get set with getprop",
+      "parentUuid": "23ad6437_10dca891",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 47
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a36528e1_f12547d4",
@@ -149,6 +173,30 @@
       "side": 1,
       "message": "Not sure. picked from stock, since we were missing",
       "parentUuid": "f5162497_b464d7b3",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 38
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7a336434_6cf1e1d0",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-06-07T15:59:18Z",
+      "side": 1,
+      "message": "Check if they actually do something (and if something we ship actually uses it)\nfyi, hvdcp_opti is disabled",
+      "parentUuid": "5306588f_4f181d2f",
       "range": {
         "startLine": 37,
         "startChar": 0,
