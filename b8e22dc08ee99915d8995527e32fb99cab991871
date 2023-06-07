@@ -89,6 +89,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "612ff751_d4742d3d",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-07T17:23:36Z",
+      "side": 1,
+      "message": "yes",
+      "parentUuid": "49cbe12a_72a221cc",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 47
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a36528e1_f12547d4",
@@ -197,6 +221,30 @@
       "side": 1,
       "message": "Check if they actually do something (and if something we ship actually uses it)\nfyi, hvdcp_opti is disabled",
       "parentUuid": "5306588f_4f181d2f",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 38
+      },
+      "revId": "b8e22dc08ee99915d8995527e32fb99cab991871",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c6a3110a_5b455b60",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-07T17:23:36Z",
+      "side": 1,
+      "message": "Its seems to be running\n\n`[init.svc.vendor.hvdcp_opti]: [running]`",
+      "parentUuid": "7a336434_6cf1e1d0",
       "range": {
         "startLine": 37,
         "startChar": 0,
