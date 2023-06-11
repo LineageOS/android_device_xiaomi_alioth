@@ -16,6 +16,24 @@
       "message": "lol at Xiaomi for changing the brand name after shipping the device",
       "revId": "c99de088314be33baa5b269d6238eb7dc80a0090",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63d53180_6932752b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-11T10:53:36Z",
+      "side": 1,
+      "message": "Nah. it was always Mi on stock. just mistake here.",
+      "parentUuid": "afb5ebaf_6dc28e14",
+      "revId": "c99de088314be33baa5b269d6238eb7dc80a0090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
