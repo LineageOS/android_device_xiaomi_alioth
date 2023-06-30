@@ -16,6 +16,24 @@
       "message": "What does this do?",
       "revId": "091c10277d4d38a0458b0972cc2e607bc49119f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f017a7b_f1180272",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-06-30T17:37:36Z",
+      "side": 1,
+      "message": "Enables wake to unlock fp toggle, google changed things in new feature drop.",
+      "parentUuid": "d56c0844_86035b16",
+      "revId": "091c10277d4d38a0458b0972cc2e607bc49119f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
