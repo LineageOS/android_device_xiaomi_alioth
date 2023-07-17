@@ -34,6 +34,24 @@
       "parentUuid": "edc30c60_d3209f97",
       "revId": "77b35456af22c884b56fccc667eb936b4ea25eee",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd40a5d2_92e3ec98",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-07-17T16:02:46Z",
+      "side": 1,
+      "message": "I have already checked it, it does work upto 1080p. 4k can only do 30fps max.",
+      "parentUuid": "846e844e_b2078e2c",
+      "revId": "77b35456af22c884b56fccc667eb936b4ea25eee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
