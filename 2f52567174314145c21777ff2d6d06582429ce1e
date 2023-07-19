@@ -16,6 +16,24 @@
       "message": "Doesn\u0027t this enable additional side fps controls?",
       "revId": "2f52567174314145c21777ff2d6d06582429ce1e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2e490da_d71848fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2023-07-19T04:13:33Z",
+      "side": 1,
+      "message": "Config value is no longer used after recent changes.",
+      "parentUuid": "576af57c_355b8917",
+      "revId": "2f52567174314145c21777ff2d6d06582429ce1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
