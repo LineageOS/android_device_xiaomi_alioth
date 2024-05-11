@@ -30,7 +30,7 @@ static const variant_info_t alioth_global_info = {
     .device = "alioth",
     .marketname = "POCO F3",
     .model = "M2012K11AG",
-    .build_fingerprint = "POCO/alioth_global/alioth:13/TKQ1.220829.002/V14.0.8.0.TKHMIXM:user/release-keys",
+    .build_fingerprint = "POCO/alioth_global/alioth:13/TKQ1.221114.001/V816.0.2.0.TKHMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -43,7 +43,7 @@ static const variant_info_t alioth_info = {
     .device = "alioth",
     .marketname = "Redmi K40",
     .model = "M2012K11AC",
-    .build_fingerprint = "Redmi/alioth/alioth:13/TKQ1.220829.002/V14.0.8.0.TKHCNXM:user/release-keys",
+    .build_fingerprint = "Redmi/alioth/alioth:13/TKQ1.221114.001/V816.0.3.0.TKHCNXM:user/release-keys",
 
     .nfc = true,
 };
