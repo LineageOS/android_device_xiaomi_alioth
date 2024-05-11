@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "670bd676_0610a9d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2024-05-11T06:14:30Z",
+      "side": 1,
+      "message": "https://github.com/xiaomi-sm8250-devs/proprietary_vendor_xiaomi_alioth/commit/fdc126eec3481687e6da192ea748fd29631a68d4",
+      "revId": "185cda280daa7a26a4c7e4801b8c052a400516c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
