@@ -9,6 +9,10 @@ function blob_fixup() {
     case "${1}" in
         vendor/etc/init/init.batterysecret.rc)
             sed -i "/seclabel u:r:batterysecret:s0/d" "${2}"
+            sed -i "s|on charger|on property:init.svc.vendor.charger=running|g" "${2}"
+            ;;
+        vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc)
+            sed -i "s|on charger|on property:init.svc.vendor.charger=running|g" "${2}"
             ;;
         vendor/etc/libnfc-nci.conf)
             cat << EOF >> "${2}"
