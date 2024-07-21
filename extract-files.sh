@@ -13,7 +13,7 @@ function blob_fixup() {
             ;;
         vendor/etc/libnfc-nci.conf)
             [ "$2" = "" ] && return 0
-            cat << EOF >> "${2}"
+            grep -q "LEGACY_MIFARE_READER=1" "${2}" || cat << EOF >> "${2}"
 ###############################################################################
 # Mifare Tag implementation
 # 0: General implementation
