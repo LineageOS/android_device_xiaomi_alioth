@@ -11,7 +11,7 @@ function blob_fixup() {
             sed -i "/seclabel u:r:batterysecret:s0/d" "${2}"
             ;;
         vendor/etc/libnfc-nci.conf)
-            cat << EOF >> "${2}"
+            grep -q "LEGACY_MIFARE_READER=1" "${2}" || cat << EOF >> "${2}"
 ###############################################################################
 # Mifare Tag implementation
 # 0: General implementation
