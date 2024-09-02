@@ -145,6 +145,7 @@ vendor/lib64/libMIAIHDRhvx_interface.so
 vendor/lib64/libSNPE.so
 vendor/lib64/libSuperSensor.so
 vendor/lib64/libSuperSensorCPU.so
+vendor/lib64/lib_sr_models.so
 vendor/lib64/libalAILDC.so
 vendor/lib64/libalCFR.so
 vendor/lib64/libalLDC.so
@@ -164,6 +165,7 @@ vendor/lib64/libarcsoft_portrait_lighting_c.so
 vendor/lib64/libarcsoft_preview_deflicker.so
 vendor/lib64/libarcsoft_super_night_raw.so
 vendor/lib64/libarcsoft_superportrait.so
+vendor/lib64/libbeauty_face_interface.so
 vendor/lib64/libc++_shared.so
 vendor/lib64/libcamera_dirty.so
 vendor/lib64/libcamera_nn_stub.so
@@ -182,6 +184,7 @@ vendor/lib64/libcvpcpuRev_skel.so
 vendor/lib64/libdng_sdk2vendor.so
 vendor/lib64/libdualcam_optical_zoom_control.so
 vendor/lib64/libdualcam_video_optical_zoom.so
+vendor/lib64/libflaw.so
 vendor/lib64/libfcsam.so
 vendor/lib64/libfocus.so
 vendor/lib64/libft2vendor.so
@@ -210,9 +213,11 @@ vendor/lib64/libmulticam_video_optical_zoom.so
 vendor/lib64/libnanopb.so
 vendor/lib64/libofflinelog.so
 vendor/lib64/libos.so
+vendor/lib64/librelight_only.so
 vendor/lib64/libremosaic_wrapper.so
 vendor/lib64/libremosaichvx_stub.so
 vendor/lib64/libremosaiclib.so
+vendor/lib64/libsdk_sr.so
 vendor/lib64/libsnpe_adsp.so
 vendor/lib64/libsnpe_dsp_domains.so
 vendor/lib64/libsnpe_dsp_domains_system.so
