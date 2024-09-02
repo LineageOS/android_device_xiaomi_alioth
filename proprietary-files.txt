@@ -241,16 +241,6 @@ vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|8629ddc55445116852140a88c6d272683ac6bd49
 
 # Camera (CamX)
-vendor/lib/libcamxexternalformatutils.so
-vendor/lib/libcamxfacialfeatures.so
-vendor/lib/libcamxfdalgo.so
-vendor/lib/libcamxfdengine.so
-vendor/lib/libcamxifestriping.so
-vendor/lib/libcamximageformatutils.so
-vendor/lib/libcamxncs.so
-vendor/lib/libcamxstatscore.so
-vendor/lib/libcamxswprocessalgo.so
-vendor/lib/libcamxtintlessalgo.so
 vendor/lib64/libcamxexternalformatutils.so
 vendor/lib64/libcamxfacialfeatures.so
 vendor/lib64/libcamxfdalgo.so
