@@ -38,3 +38,7 @@ ro.hardware.audio.primary=alioth
 # Display
 ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
+
+# Fingerprint
+persist.vendor.fingerprint.sensor_location=1080|965|115|local:4630946736638489729
+persist.vendor.fingerprint.type=side
