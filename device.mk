@@ -33,9 +33,13 @@ PRODUCT_PACKAGES += \
 $(call soong_config_set,xiaomi_kona,variant_lib,//$(LOCAL_PATH):libvariant_xiaomi_alioth)
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+PRODUCT_PACKAGES += \
+    ApertureOverlayDevice \
+    FrameworkResOverlayDevice \
+    LineageDialerOverlayDevice \
+    LineageSettingsOverlayDevice \
+    LineageSystemUIOverlayDevice \
+    SystemUIOverlayDevice
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
