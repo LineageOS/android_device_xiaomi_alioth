@@ -15,9 +15,6 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 # Display
 TARGET_SCREEN_DENSITY := 440
 
-# Init
-TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_alioth
-
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/xiaomi/alioth.config
 
