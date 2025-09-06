@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34b9799d_e830daed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-06T08:43:59Z",
+      "side": 1,
+      "message": "this will be overridden to `init_xiaomi_kona` as long as `TARGET_INIT_VENDOR_LIB` isn\u0027t gone in sm8250-common, and causes like NFC issue\n\n(and we also can\u0027t migrate the common one to `soong_config_set` on kona.mk as it\u0027ll override device-specific too...)",
+      "revId": "3ed6df8cef373f3431d723499d0196597ea3b615",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
