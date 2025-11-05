@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dff8ef4c_a33eba99",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2025-11-05T18:50:54Z",
+      "side": 1,
+      "message": "But this should go to 23.0 (I suppose)",
+      "revId": "9feda48530e4dc57fd81458b6d93b65cb6ed71c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
