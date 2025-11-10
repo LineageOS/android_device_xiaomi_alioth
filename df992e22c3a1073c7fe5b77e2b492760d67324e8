@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1522d35_7c0036d5",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 22176
+      },
+      "writtenOn": "2025-11-10T17:10:44Z",
+      "side": 1,
+      "message": "Wouldn’t it be better to use the device name instead of just “Device”?\nIf other device repos exist at the same time, it could cause build conflicts.",
+      "revId": "df992e22c3a1073c7fe5b77e2b492760d67324e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
