@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e878bf5_a8ddcb3d",
+        "filename": "rro_overlays/SettingsOverlayDevice/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 22176
+      },
+      "writtenOn": "2025-11-12T13:13:12Z",
+      "side": 1,
+      "message": "No res config.xml",
+      "revId": "2b75c382828a763c319bed26d818a7db9cd5cb68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7d32a66c_9f85f0b8",
+        "filename": "rro_overlays/SettingsProviderOverlayDevice/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 22176
+      },
+      "writtenOn": "2025-11-12T13:13:12Z",
+      "side": 1,
+      "message": "ditto",
+      "revId": "2b75c382828a763c319bed26d818a7db9cd5cb68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
