@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "67e9c5cd_31c40c3f",
+        "filename": "rro_overlays/SettingsOverlayDevice/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2025-11-12T15:16:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ae1aa474_93041695",
+      "revId": "2b75c382828a763c319bed26d818a7db9cd5cb68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7d32a66c_9f85f0b8",
@@ -67,6 +85,24 @@
       "side": 1,
       "message": "Done",
       "parentUuid": "7d32a66c_9f85f0b8",
+      "revId": "2b75c382828a763c319bed26d818a7db9cd5cb68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1907dc06_0233b079",
+        "filename": "rro_overlays/SettingsProviderOverlayDevice/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2025-11-12T15:16:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3490f11d_134434d7",
       "revId": "2b75c382828a763c319bed26d818a7db9cd5cb68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
