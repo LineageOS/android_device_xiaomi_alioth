@@ -16,6 +16,24 @@
       "message": "Wouldn’t it be better to use the device name instead of just “Device”?\nIf other device repos exist at the same time, it could cause build conflicts.",
       "revId": "df992e22c3a1073c7fe5b77e2b492760d67324e8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "33f6f267_6ea64f1c",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-11-12T10:53:59Z",
+      "side": 1,
+      "message": "The devices should be isolated with soong namespaces so there won\u0027t be any conflicts",
+      "parentUuid": "c1522d35_7c0036d5",
+      "revId": "df992e22c3a1073c7fe5b77e2b492760d67324e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
