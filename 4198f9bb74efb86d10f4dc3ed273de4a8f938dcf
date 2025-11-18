@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6fd9e8ed_85a7327b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2025-11-18T23:05:42Z",
+      "side": 1,
+      "message": "the copyright header changes should come in different CR",
+      "revId": "4198f9bb74efb86d10f4dc3ed273de4a8f938dcf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
